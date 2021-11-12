@@ -1,4 +1,4 @@
-package com.dio.apicitiesbrazil.citiesapi.countries.repository;
+package com.dio.apicitiesbrazil.citiesapi.countries;
 
 import com.dio.apicitiesbrazil.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;

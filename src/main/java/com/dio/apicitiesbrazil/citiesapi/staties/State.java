@@ -44,22 +44,27 @@ public class State {
     }
 
     public Long getId() {
+
         return id;
     }
 
     public String getName() {
+
         return name;
     }
 
     public String getUf() {
+
         return uf;
     }
 
     public Integer getIbge() {
+
         return ibge;
     }
 
     public List<Integer> getDdd() {
+
         return ddd;
     }
 
