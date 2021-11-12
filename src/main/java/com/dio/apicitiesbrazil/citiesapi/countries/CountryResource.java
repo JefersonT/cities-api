@@ -1,9 +1,9 @@
-package com.dio.apicitiesbrazil.citiesapi;
+package com.dio.apicitiesbrazil.citiesapi.countries;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import com.dio.apicitiesbrazil.citiesapi.countries.Country;
-import com.dio.apicitiesbrazil.citiesapi.repository.CountryRepository;
+import com.dio.apicitiesbrazil.citiesapi.countries.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
